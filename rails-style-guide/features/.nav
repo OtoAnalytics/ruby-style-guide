@@ -1,0 +1,21 @@
+- testing_rails_applications (Testing Rails applications):
+  - models.md
+  - controllers.md
+  - mailers.md
+  - views.md
+  - uploaders.md
+- developing_rails_applications (Developing Rails applications):
+  - configuration.md
+  - routing.md
+  - controllers.md
+  - models.md
+  - active_record.md
+  - migrations.md
+  - views.md
+  - internationalization.md
+  - assets.md
+  - mailers.md
+  - bundler.md
+  - priceless_gems.md (Priceless Gems)
+  - flawed_gems.md (Flawed Gems)
+  - managing_processes.md (Managing Processes)
